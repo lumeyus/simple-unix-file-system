@@ -1,7 +1,7 @@
 # simple-unix-file-system
-Simplified version of the UNIX file system
+A Simplified version of the UNIX file system written in C
 
-# Commands implemented and their differences from standard UNIX if any:
+# Commands implemented and their differences from standard UNIX, if any:
 + pwd
 + cd - working dir can be changed only to the root dir, the working dir's parent, or one of the child dirs of the working dir
 + ls - takes 0 or 1 as arg; directories not sorted before files
